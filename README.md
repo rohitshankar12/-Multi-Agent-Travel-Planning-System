@@ -124,9 +124,9 @@ Multi-Agent-Travel-Planning-System/
 │   └── index.html
 │
 └── tools/
-    ├── flights.py
-    ├── hotels.py
-    └── search.py
+    ├── flight_tool.py
+    ├── tavily_tool.py
+    
 ```
 
 ---
@@ -303,7 +303,7 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Rohit Shankar Sharma**
+**Rohit Shankar**
 
 B.Tech Electronics & Communication Engineering (AI/ML Specialization)
 
